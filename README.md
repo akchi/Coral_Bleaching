@@ -1,3 +1,4 @@
 ## Coral Bleaching Along Great Barrier Reef
 
-(https://octodex.github.com/images/yaktocat.png)
+![output]
+(https://github.com/akchi/Coral_Bleaching/blob/master/output.png)
